@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a first year at The University of Chicago. I am interested in AI and Crypto/Blockchain. 
+I'm a first year at The University of Chicago. I am interested in AI and Blockchain. 
 
 <!--
 **jrdn-h/jrdn-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
